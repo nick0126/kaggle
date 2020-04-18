@@ -1,0 +1,2 @@
+由于文件太大，请到竞赛官网下载：
+https://www.kaggle.com/c/home-depot-product-search-relevance
